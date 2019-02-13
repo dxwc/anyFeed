@@ -1,4 +1,4 @@
-A command line program to get RSS/Atom feed link given a URL found in it's source. This also supports most YouTube links including video URLs. This is useful if you use a feed reader like newsboat that doesn't look up feed link given a site URL.
+A command line program to get RSS/Atom feed link given a URL. This also supports most YouTube links including video URLs. This is useful if you use a feed reader like newsboat that doesn't look up feed link given a site URL.
 
 # Install
 
