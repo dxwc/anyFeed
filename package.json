@@ -1,0 +1,41 @@
+{
+  "name": "anyfeed",
+  "version": "1.0.0",
+  "description": "Command line tool to get feed link given a URL",
+  "keywords": [
+    "youtube",
+    "feed",
+    "url",
+    "link",
+    "rss",
+    "atom",
+    "find",
+    "finder",
+    "video",
+    "parse",
+    "fetch"
+  ],
+  "main": "index.js",
+  "bin": {
+    "anyFeed": "index.js",
+    "anyfeed": "index.js",
+    "af": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "rss-finder": "^2.1.0",
+    "vid_data": "^0.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dxwc/anyFeed.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/dxwc/anyFeed/issues"
+  },
+  "homepage": "https://github.com/dxwc/anyFeed#readme"
+}
